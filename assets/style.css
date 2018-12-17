@@ -1,4 +1,4 @@
-/* --- STYLES --- */
+/* ---==>STYLES<== --- */
 
 /*  */
 
@@ -29,7 +29,7 @@ body {
   }
   
 
-  /* ====NAV=== */
+  /* ====>NAV<=== */
   #logo {
     font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 24px;
@@ -71,7 +71,6 @@ body {
 
   /* ==>ABOUT-ME PAGE<== */
   .about-me-header {
-    /* Positioning */
     margin-bottom: 33px;
     font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 32px;
@@ -85,7 +84,7 @@ body {
     margin: 0 20px 10px 0;
   }
 
-/* ==>CONTACT FORM PAGE<==  */
+/* ==>CONTACT PAGE<==  */
   .form-control {
       border-radius: 0;
       min-width: 100%;
